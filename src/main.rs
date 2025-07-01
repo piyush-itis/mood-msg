@@ -58,7 +58,7 @@ fn generate_commit_with_ollama(mood: &str) -> Result<String, Box<dyn std::error:
     let client = reqwest::blocking::Client::new();
 
     let prompt = format!(
-        "Give me a short, witty, sarcastic git commit message written by a developer who is feeling {}. Only output the commit message.",
+        "Give me an extremely short, witty, sarcastic git commit message written by a developer who is feeling {}. Only output the commit message.",
         mood
     );
 
