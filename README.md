@@ -6,7 +6,7 @@ Generate witty, mood-based git commit messages from your terminal, powered by lo
 ## ✨ Features
 - Generate short, witty, sarcastic commit messages based on your mood
 - Uses a local LLM (Ollama) if available, or falls back to a local JSON database
-- Integrates with git globally: just use `git commit -m "mood-msg -- tired"`
+- Integrates with git globally: just use `git commit -m "mood-msg -- <mood>"`
 - Easy installation and setup
 
 ## 🚀 Installation
@@ -29,7 +29,7 @@ cargo install --path .
 bash install.sh
 ```
 This will:
-- Set up a global git hook so you can use `git commit -m "mood-msg -- tired"` in any repo
+- Set up a global git hook so you can use `git commit -m "mood-msg -- <mood>"` in any repo
 - Ensure your CLI is in your PATH
 
 ## 🛠️ Manual Global Git Hook Setup
@@ -54,12 +54,12 @@ git config --global core.hooksPath ~/.git-templates/hooks
 
 ### Generate a commit message for a mood
 ```sh
-mood-msg tired
+mood-msg happy
 ```
 
 ### Use with git (after hook setup)
 ```sh
-git commit -m "mood-msg -- tired"
+git commit -m "mood-msg -- happy"
 ```
 This will automatically replace the commit message with a witty, mood-based message.
 
