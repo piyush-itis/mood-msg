@@ -1,4 +1,5 @@
 # mood-msg
+[![Crates.io](https://img.shields.io/crates/v/mood-msg.svg)](https://crates.io/crates/mood-msg)
 
 Generate witty, mood-based git commit messages from your terminal, powered by local LLMs (Ollama) or a local fallback database.
 
