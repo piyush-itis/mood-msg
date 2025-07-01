@@ -1,0 +1,60 @@
+{
+    "tired": [
+      "😴 zzz... code works, don't ask how",
+      "💤 barely awake but it compiles",
+      "🥱 tired brain, working code",
+      "😪 sleep is for the weak, commits are forever",
+      "🛏️ wrote this while falling asleep"
+    ],
+    "angry": [
+      "😠 this better work or I'm done",
+      "💢 rage coding at its finest",
+      "🤬 fixed it but I'm still mad",
+      "😤 stubborn code meets stubborn developer",
+      "🔥 burning with determination"
+    ],
+    "chaotic": [
+      "🤪 chaos theory in action",
+      "🎭 pure chaos but somehow it works",
+      "🎪 circus code that somehow performs",
+      "🔥 everything is on fire but it's working",
+      "🎲 rolled the dice and won"
+    ],
+    "genius": ["optimized the unoptimizable", "implemented Schrödinger's algorithm"],
+    "sad": [
+      "😢 code works but I don't",
+      "💔 broken heart, working code",
+      "😞 sad but functional",
+      "🌧️ rainy day coding",
+      "😭 tears of joy when it finally works"
+    ],
+    "happy": [
+      "😊 everything works and I'm happy!",
+      "🎉 success! time to celebrate",
+      "✨ magic happened and it's beautiful",
+      "🌟 feeling great, code is great",
+      "😄 happy developer, happy code"
+    ],
+    "excited": [
+      "🚀 this is going to be amazing!",
+      "⚡ lightning fast and exciting",
+      "🎊 party time, code works!",
+      "🔥 on fire with excitement",
+      "🌟 stars aligned and code works"
+    ],
+    "confused": [
+      "🤔 not sure how this works but it does",
+      "😵‍💫 confused but it compiles",
+      "🧠 brain hurts but code doesn't",
+      "❓ magic happened, don't ask questions",
+      "🤷‍♂️ it works, I don't know why"
+    ],
+    "productive": [
+      "⚡ productive coding session complete",
+      "🎯 focused and efficient",
+      "📈 productivity levels: maximum",
+      "🚀 getting things done",
+      "💪 strong code, strong developer"
+    ]
+  }
+  
